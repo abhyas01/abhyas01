@@ -1,5 +1,5 @@
 @abhyas01
-mallabhyas@gmail.com
+mallabhyas@gmail.com / abhyas@uchicago.edu
 
 <!---
 abhyas01/abhyas01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
