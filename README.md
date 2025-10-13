@@ -1,7 +1,3 @@
-## About Me
-
-Hi, I am Abhyas (@abhyas01). I have **3 years of experience** working **in software** and am currently pursuing my **Master’s** at the **University of Chicago**. You can reach me at mallabhyas@gmail.com.
-
 ## Open Source Contributions
 
 * ### [**Instagram/IGListKit**](https://github.com/Instagram/IGListKit)
