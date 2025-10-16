@@ -3,11 +3,11 @@
 * ### [**Instagram/IGListKit**](https://github.com/Instagram/IGListKit)
 
   * **Feed View Controller Implementation:**
-      Implemented a full Instagram-style feed experience in IGListKit, featuring core functionality like infinite scrolling, pagination, and post deletion.
-      * [Demo Video](https://drive.google.com/file/d/1urSqlw_PZOBaGjI9Yh3sYDHTRVkeMVFn/view?usp=sharing)
+      - Implemented a full Instagram-style feed experience in IGListKit, featuring core functionality like infinite scrolling, pagination, and post deletion.
+       * [Demo Video](https://drive.google.com/file/d/1urSqlw_PZOBaGjI9Yh3sYDHTRVkeMVFn/view?usp=sharing)
   
   * **Enhanced UI Testing Infrastructure:**
-      Added helper methods to significantly improve UI test reliability across different device layouts. This ensures elements are visible before interaction, supporting complex scenarios such as iPad split views.
+      - Added helper methods to significantly improve UI test reliability across different device layouts. This ensures elements are visible before interaction, supporting complex scenarios such as iPad split views.
   
   * **Commit Details:** [View Merged Commit](https://github.com/Instagram/IGListKit/commit/01bd505d8b89b55fc3938fc5ce4a9f57a7a92f81)
 
