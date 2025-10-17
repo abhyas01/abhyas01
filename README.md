@@ -3,7 +3,7 @@
 * ### [**Instagram/IGListKit**](https://github.com/Instagram/IGListKit)
 
   * **Feed View Controller:**
-      - Implemented Instagram-style iOS feed in IGListKit, featuring infinite scrolling, pagination, and post deletion.
+      - Implemented iOS feed (instagram-style) in IGListKit, featuring infinite scrolling, pagination, and post deletion.
        * [Demo Video](https://drive.google.com/file/d/1urSqlw_PZOBaGjI9Yh3sYDHTRVkeMVFn/view?usp=sharing)
   
   * **Improved iOS XCUITest Infrastructure:**
