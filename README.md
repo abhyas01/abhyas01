@@ -8,8 +8,10 @@
   
   * **Improved iOS XCUITest Infrastructure:**
       - Added helper methods to make UI tests more reliable across different devices and layouts. Ensuring elements are visible before interaction, even in complex scenarios like iPad split views.
-  
+   
   * **Commit Details:** [View Merged Commit](https://github.com/Instagram/IGListKit/commit/01bd505d8b89b55fc3938fc5ce4a9f57a7a92f81)
+
+  * **Pull Request:** [View Pull Request](https://github.com/Instagram/IGListKit/pull/1629)
 
 ## Expertise
 
